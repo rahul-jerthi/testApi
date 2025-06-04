@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import os
 # from dotenv import load_dotenv
-
+#make sure to dont loss your keys
 # load_dotenv()
 
 
